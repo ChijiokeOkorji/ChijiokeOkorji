@@ -1,5 +1,6 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChijiokeOkorji&style=for-the-badge" alt="Profile Views Badge"/>
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.deno.dev/:ChijiokeOkorji:/count.svg" alt="Key:: Visitor's Count" />
 </div>
 <br>
 
